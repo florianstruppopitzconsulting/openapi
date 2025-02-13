@@ -1,0 +1,8 @@
+com/example/openapi/client/ClientApi.class
+com/example/openapi/client/ClientRepository.class
+com/example/openapi/client/ClientMapper.class
+com/example/openapi/client/ClientService.class
+com/example/openapi/client/ClientMapperImpl.class
+com/example/openapi/OpenapiApplication.class
+com/example/openapi/client/Client.class
+com/example/openapi/client/ClientDTO.class
